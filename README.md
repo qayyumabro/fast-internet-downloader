@@ -4,7 +4,7 @@
 
 Fast Internet Downloader (FID) helps you download files with multiple connections, pause and resume transfers, organize your queue, and send downloads straight from your browser. Available for Windows 10 and Windows 11.
 
-**[Website](https://fastinternetdownloader.com/) · [Download for Windows](https://fastinternetdownloader.com/download/) · [Microsoft Store](https://apps.microsoft.com/detail/9NHWQFBJSTLT) · [Documentation](https://fastinternetdownloader.com/docs/)**
+**[Fast Internet Download Manager](https://fastinternetdownloader.com/) · [Download for Windows](https://fastinternetdownloader.com/download/) · [Microsoft Store](https://apps.microsoft.com/detail/9NHWQFBJSTLT) · [Documentation](https://fastinternetdownloader.com/docs/)**
 
 ## Screenshots
 
